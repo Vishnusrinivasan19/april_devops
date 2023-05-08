@@ -1,3 +1,4 @@
+#!/bin/bash
 #echoing lines
 echo "Enter some runtime varialble"
 read runtimevar
